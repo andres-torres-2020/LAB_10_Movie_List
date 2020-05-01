@@ -1,0 +1,26 @@
+C:\Users\andy\source\repos\LAB_10_Movie_List\LAB_10_Movie_List\obj\Debug\netcoreapp3.1\LAB_10_Movie_List.csprojAssemblyReference.cache
+C:\Users\andy\source\repos\LAB_10_Movie_List\LAB_10_Movie_List\obj\Debug\netcoreapp3.1\LAB_10_Movie_List.csproj.CoreCompileInputs.cache
+C:\Users\andy\source\repos\LAB_10_Movie_List\LAB_10_Movie_List\obj\Debug\netcoreapp3.1\LAB_10_Movie_List.AssemblyInfoInputs.cache
+C:\Users\andy\source\repos\LAB_10_Movie_List\LAB_10_Movie_List\obj\Debug\netcoreapp3.1\LAB_10_Movie_List.AssemblyInfo.cs
+C:\Users\andy\source\repos\LAB_10_Movie_List\LAB_10_Movie_List\bin\Debug\netcoreapp3.1\LAB_10_Movie_List.exe
+C:\Users\andy\source\repos\LAB_10_Movie_List\LAB_10_Movie_List\bin\Debug\netcoreapp3.1\LAB_10_Movie_List.deps.json
+C:\Users\andy\source\repos\LAB_10_Movie_List\LAB_10_Movie_List\bin\Debug\netcoreapp3.1\LAB_10_Movie_List.runtimeconfig.json
+C:\Users\andy\source\repos\LAB_10_Movie_List\LAB_10_Movie_List\bin\Debug\netcoreapp3.1\LAB_10_Movie_List.runtimeconfig.dev.json
+C:\Users\andy\source\repos\LAB_10_Movie_List\LAB_10_Movie_List\bin\Debug\netcoreapp3.1\LAB_10_Movie_List.dll
+C:\Users\andy\source\repos\LAB_10_Movie_List\LAB_10_Movie_List\bin\Debug\netcoreapp3.1\LAB_10_Movie_List.pdb
+C:\Users\andy\source\repos\LAB_10_Movie_List\LAB_10_Movie_List\obj\Debug\netcoreapp3.1\LAB_10_Movie_List.dll
+C:\Users\andy\source\repos\LAB_10_Movie_List\LAB_10_Movie_List\obj\Debug\netcoreapp3.1\LAB_10_Movie_List.pdb
+C:\Users\andy\source\repos\LAB_10_Movie_List\LAB_10_Movie_List\obj\Debug\netcoreapp3.1\LAB_10_Movie_List.genruntimeconfig.cache
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_10_Movie_List\LAB_10_Movie_List\bin\Debug\netcoreapp3.1\LAB_10_Movie_List.exe
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_10_Movie_List\LAB_10_Movie_List\bin\Debug\netcoreapp3.1\LAB_10_Movie_List.deps.json
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_10_Movie_List\LAB_10_Movie_List\bin\Debug\netcoreapp3.1\LAB_10_Movie_List.runtimeconfig.json
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_10_Movie_List\LAB_10_Movie_List\bin\Debug\netcoreapp3.1\LAB_10_Movie_List.runtimeconfig.dev.json
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_10_Movie_List\LAB_10_Movie_List\bin\Debug\netcoreapp3.1\LAB_10_Movie_List.dll
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_10_Movie_List\LAB_10_Movie_List\bin\Debug\netcoreapp3.1\LAB_10_Movie_List.pdb
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_10_Movie_List\LAB_10_Movie_List\obj\Debug\netcoreapp3.1\LAB_10_Movie_List.csprojAssemblyReference.cache
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_10_Movie_List\LAB_10_Movie_List\obj\Debug\netcoreapp3.1\LAB_10_Movie_List.csproj.CoreCompileInputs.cache
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_10_Movie_List\LAB_10_Movie_List\obj\Debug\netcoreapp3.1\LAB_10_Movie_List.AssemblyInfoInputs.cache
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_10_Movie_List\LAB_10_Movie_List\obj\Debug\netcoreapp3.1\LAB_10_Movie_List.AssemblyInfo.cs
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_10_Movie_List\LAB_10_Movie_List\obj\Debug\netcoreapp3.1\LAB_10_Movie_List.dll
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_10_Movie_List\LAB_10_Movie_List\obj\Debug\netcoreapp3.1\LAB_10_Movie_List.pdb
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_10_Movie_List\LAB_10_Movie_List\obj\Debug\netcoreapp3.1\LAB_10_Movie_List.genruntimeconfig.cache

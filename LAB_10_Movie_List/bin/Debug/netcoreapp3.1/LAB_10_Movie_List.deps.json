@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LAB_10_Movie_List/1.0.0": {
+        "runtime": {
+          "LAB_10_Movie_List.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LAB_10_Movie_List/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
